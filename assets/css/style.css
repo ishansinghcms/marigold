@@ -256,8 +256,14 @@ body.nav-active { overflow: hidden; }
 .label-2 { font-size: var(--fontSize-label-2); }
 
 
+#bottom-logo {
+  margin: 0 auto;
+}
 
-
+#renuka-foods {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
 
 /*-----------------------------------*\
   #REUSED STYLE
