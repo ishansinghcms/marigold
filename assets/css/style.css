@@ -1338,7 +1338,7 @@ textarea.input-field {
 .footer-brand .logo {
   max-width: max-content;
   margin-inline: auto;
-  margin-block-end: 40px;
+  /* margin-block-end: 40px; */
 }
 
 .footer-brand :is(.body-4, .label-1) {
